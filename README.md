@@ -1,3 +1,4 @@
 # SR-MDA
-Please complete the environment configuration before running the code, and then modify the dataset and configuration file paths. Due to GitHub restrictions, weight files cannot be uploaded. If you need weight files, please contact the author.
-liyahui@henu.edu.cn
+After completing the environment configuration, you can directly run the code by modifying the path. Please note that the best accuracy can only be achieved after 1000 epochs.If you have any questions, please contact us：liyahui@henu.edu.cn
+Li Y, Liu Y, He H, et al. Small sample hyperspectral image classification based on spiking re-parameterization and multi-discriminator adversarial[J]. Neurocomputing, 2025: 131165.
+
